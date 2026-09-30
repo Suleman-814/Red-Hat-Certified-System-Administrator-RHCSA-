@@ -109,7 +109,7 @@ Learn Linux → Practice commands → Understand the concepts → Build real adm
 
 This repository is primarily for my own learning and documentation.
 
-If you notice an error or have a useful suggestion, feel free to open an issue or submit a pull request.
+If you notice an error or have a useful suggestion, feel free to open an issue.
 
 ⭐ Repository
 
