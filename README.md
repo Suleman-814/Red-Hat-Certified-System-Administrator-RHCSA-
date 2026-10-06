@@ -52,6 +52,8 @@ Bash and shell commands
 Containers
 Practical RHCSA exercises
 Useful commands and troubleshooting tips
+
+
 📁 Repository Structure
 
 The repository will be organized into topic-based directories as the notes grow.
