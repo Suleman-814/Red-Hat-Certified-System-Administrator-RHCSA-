@@ -61,7 +61,6 @@ The repository will be organized into topic-based directories as the notes grow.
 Red-Hat-Certified-System-Administrator-RHCSA/
 │
 ├── README.md
-│
 ├── Linux-Basics/
 ├── Users-and-Groups/
 ├── Permissions/
