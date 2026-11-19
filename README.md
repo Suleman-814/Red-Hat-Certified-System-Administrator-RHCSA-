@@ -118,4 +118,4 @@ If these notes are useful to you, feel free to ⭐ the repository.
 
 Happy Learning & Happy Linux! 🐧
 
-Thank You!!
+**Thank You!!**
